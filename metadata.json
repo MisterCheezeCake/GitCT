@@ -1,0 +1,11 @@
+{
+    "$schema": "../CTAutocomplete/schema.json",
+    "name": "GitCT",
+    "creator": "CheezeCake",
+    "description": "A utility that allows importing modules from GitHub",
+    "entry": "index.js",
+    "requires": ["axios", "FileUtilities"],
+    "helpMessage": "Thanks for installing GitCT. Type /gitct help for more information.",
+    "isRequired": false,
+    "version": "0.1.0"
+}
